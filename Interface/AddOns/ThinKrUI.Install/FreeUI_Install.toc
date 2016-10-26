@@ -1,0 +1,8 @@
+## Interface: 70000
+## Title: ThinKrUI Install
+## Notes: ThinKrUI setup addon.
+## Author: Rico Wang
+## Version:1.0.0-beta
+## RequiredDeps: ThinKrUI
+
+install.lua
